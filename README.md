@@ -3,4 +3,5 @@
 ## 터치패드와 마우스 휠 방향을 따로 reverse 할 수 있는 앱
 https://pilotmoon.com/scrollreverser/
 
-
+## 일반 키보드 연결 시 방법
+http://bischoff.tistory.com/275
